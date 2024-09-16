@@ -1,5 +1,5 @@
 # Bengaluru-House-Price-Predictor-Model
-<p>In this project, a Machine Learning Model is trained on the basis of a dataseet present on Kaggle. This dataset is about the house prices in Bengaluru. The model predics the price of a house based on certain parameters as follows.</p>
+<p>In this project, a Machine Learning Model is trained on the basis of a dataset present on Kaggle. This dataset is about the house prices in Bengaluru. The model predics the price of a house based on certain parameters as follows.</p>
 <ul>
   <li>Location</li>
   <li>Area Type</li>
